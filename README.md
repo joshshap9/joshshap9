@@ -1,6 +1,6 @@
 # Josh Shapiro
 
-I turn what people ask for into working tools: data pipelines, MCP connectors,
+I build data pipelines, MCP connectors,
 and agent workflows that non-technical teams use every day.
 
 **Now**
